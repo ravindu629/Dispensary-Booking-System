@@ -1,0 +1,101 @@
+.loginForm {
+  font-weight: 600;
+  font-size: 120%;
+  margin: 3% 28% 20%;
+  border: 2px solid black;
+  padding: 3%;
+  background-color: #d3cedf;
+}
+
+.registerForm {
+  font-weight: 600;
+  font-size: 120%;
+  margin: 2% 18% 20%;
+  border: 2px solid black;
+  padding: 3%;
+  background-color: #d3cedf;
+}
+
+.registerTitle {
+  font-weight: 700;
+  text-align: center;
+  margin-top: 2%;
+  font-size: 180%;
+  color: rgb(21, 41, 54);
+}
+
+.orderBtn {
+  margin: 15px;
+}
+
+.orderTable {
+  margin: 1% 12% 25%;
+}
+
+.orderDetailsTable {
+  margin: 2% 25%;
+  padding: 0.5%;
+  font-size: 120%;
+  font-weight: 600;
+  border: 2px solid;
+}
+
+.requestButtons {
+  text-align: center;
+}
+
+.staffTable {
+  margin: 2% 10% 20%;
+}
+
+.orderStatusTable {
+  margin-bottom: 20%;
+}
+
+.note {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 15px;
+  width: 420px;
+  margin: 16px 24px 5%;
+  float: left;
+  height: 280px;
+  border: 3px solid darkcyan;
+}
+.note h1 {
+  font-size: 1.3em;
+  margin-bottom: 6px;
+  font-weight: bold;
+  color: lightcoral;
+}
+
+.note h4 {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-weight: 500;
+  color: rgb(77, 111, 224);
+}
+
+.note p {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-weight: 500;
+}
+
+.note Button {
+  position: relative;
+  float: right;
+}
+
+.viewNotice {
+  margin: 3% 15% 10%;
+  padding: 20px;
+  background-color: white;
+  border: 3px solid darkcyan;
+  border-radius: 15px;
+}
